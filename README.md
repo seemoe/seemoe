@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seemoe
 - 👀 I’m interested in Python and C++.
-- 🌱 I’m currently learning Pyglet.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on programme.
 - 📫 No way to reach me.
 
